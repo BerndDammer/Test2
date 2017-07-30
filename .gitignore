@@ -4,3 +4,4 @@
 #QtCtreator Qml
 *.qmlproject.user
 *.qmlproject.user.*
+*.lst
